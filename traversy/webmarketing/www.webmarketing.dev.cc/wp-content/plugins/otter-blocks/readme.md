@@ -1,6 +1,6 @@
 # Gutenberg Blocks and Template Library by Otter #
 **Contributors:** [themeisle](https://profiles.wordpress.org/themeisle), [hardeepasrani](https://profiles.wordpress.org/hardeepasrani)  
-**Tags:** gutenberg, block, services block, pricing block, testimonials block, post grid block, google map block, font awesome block, sharing icons block, about author block, columns block, advanced columns, section, columds, row, layout  
+**Tags:** gutenberg blocks, gutenberg, block,post grid block, google map block, columns block, advanced columns, section, row, layout  
 **Requires at least:** 5.0      
 **Tested up to:** 5.2    
 **Requires PHP:** 5.4    
@@ -44,6 +44,11 @@ It has:
 3. Posts Block
 
 ## Changelog ##
+### 1.2.5 - 2019-09-10  ###
+
+* Fix AMP compatibility errors.
+
+
 ### 1.2.4 - 2019-07-30  ###
 
 * Fix Internet Explorer incompatibility
